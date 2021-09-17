@@ -1,10 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Avinash Nanda!](https://www.linkedin.com/in/avinash-nanda/) 
 
-### About Me
+
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b7611bed7f16a3917891041cbe8e8cc649e0e20ebdea0&rid=giphy.gif&ct=g" />
 
-
+### About Me
 👨🏽‍💻 Senior Data scientist at TomTom.\
 🌱 Experienced in ML, NLP and Computer Vision.\
 💬 Currently i am learning pytorch.\
